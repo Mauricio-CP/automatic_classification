@@ -17,7 +17,7 @@ Les données utilisées sont téléchargeables [ici](https://s3-eu-west-1.amazon
 ## Description du répertoire
 
 **Fichiers :**
-- **_classification_** est le notebook Jupyter proposant différentes approches pour la classification supervisée des images.
+- **_classification.ipynb_** est le notebook Jupyter proposant différentes approches pour la classification supervisée des images.
 - **_df_cleaned.csv_** contient les données nettoyées, après prétraitement et feature extraction.
 - **_pretraitement_feature_extraction_faisabilite.ipynb_** est le notebook Jupyter permettant le prétraitement et l'extraction des features, ainsi que l'étude de faisabilité du moteur de classification.
 - **_requirements.txt_** contient la liste des packages utilisés pour la réalisation du projet.
